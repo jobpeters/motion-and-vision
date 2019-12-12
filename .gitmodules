@@ -1,3 +1,7 @@
 [submodule "ma-vision"]
 	path = ma-vision
 	url = https://github.com/jobpeters/ma-vision
+
+[submodule "ma-motion"]
+	path = ma-motion
+	url = https://github.com/jobpeters/ma-motion
