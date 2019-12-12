@@ -1,0 +1,8 @@
+[submodule "ma-vision"]
+	path = ma-vision
+	url = https://github.com/jobpeters/ma-vision.git
+	branch = master
+[submodule "ma-motion"]
+	path = ma-motion
+	url = https://github.com/jobpeters/ma-motion.git
+	branch = master
