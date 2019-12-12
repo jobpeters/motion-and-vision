@@ -1,0 +1,3 @@
+[submodule "ma-vision"]
+	path = ma-vision
+	url = https://github.com/jobpeters/ma-vision
